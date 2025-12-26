@@ -16308,6 +16308,13 @@
         "notes": "Contact via Discord or forum asking to delete account.",
         "domains": ["https://promods.net/"]
     },
+        {
+        "name": "Pronto",
+        "url": "https://prontohq.com/",
+        "difficulty": "easy",
+        "notes": "Gather data easily",
+        "domains": ["https://prontohq.com/"]
+    },
     {
         "name": "Proofwiki",
         "url": "https://proofwiki.org/wiki/ProofWiki:Privacy_policy#Removal_of_user_accounts",
